@@ -1,8 +1,8 @@
-Origin: marco2012
-Label: marco2012
+Origin: ZIO1993
+Label: ZIO1993
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: marco2012's cydia repo
+Description: ZIO1993's cydia repo
